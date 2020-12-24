@@ -21,15 +21,15 @@ img{
 
 header {
   position:relative;
-  height: 8rem;
-  background: #333;
+  height: 3rem;
+  background:#333;
   box-shadow: 0 4px 0.3125rem rgba(0,0,0,.3);
 }
 
 header h1{
   position: absolute;
-  top: 3rem;
-  left: 3rem;
+  top: 1rem;
+  left: 1rem;
   font-size: 2rem;
   color: white;
 }
@@ -76,6 +76,7 @@ main {
         article h1{
           margin-bottom: 1rem;
         }
+
 
     aside{
       flex: 1;
